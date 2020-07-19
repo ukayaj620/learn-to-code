@@ -8,9 +8,9 @@ Naming semantic:
     /theory_name_1.md
     /theory_name_2.md
   [Question] Folder
-    /theory_name_1.txt
-    /theory_name_2.txt
+    /q-theory_name_1.md
+    /q-theory_name_2.md
   [Answer] Folder
-    /theory_name_1.cpp
-    /theory_name_2.cpp   
+    /a-theory_name_1.cpp
+    /a-theory_name_2.cpp   
 ```
