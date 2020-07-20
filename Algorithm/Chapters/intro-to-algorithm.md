@@ -8,8 +8,19 @@ Algoritma adalah sebuah proses atau himpunan dari aturan-aturan yang
 diikuti dengan kalkulasi matematis dan problem-solving, yang secara
 khusus terjadi pada komputer.
 
-Salah satu contoh yang dapat kita lihat dalam kehidupan sehari-hari
+Beberapa contoh yang dapat kita lihat dalam kehidupan sehari-hari
 yang dapat menjelaskan tentang algoritma:
+
+Contoh 1:
+
+Cara penyajian Indomie Goreng:
+
+1. Rebus mie dalam 400cc air mendidih selama 3 menit, sambil diaduk.
+2. Sementara mie direbus, campurkan bumbu, minyak bumbu, kecap manis, dan bubuk cabe ke dalam piring.
+3. Tiriskan mie, kemudian campurkan mie ke dalam campuran bumbu di piring, diaduk hingga merata.
+4. Taburkan bawang goreng dan mie lezat siap disajikan.
+
+Contoh 2
 
 Xandy membeli 5 buah pensil dengan harga Rp. 3000/buah, kemudian dia
 juga membeli 3 buah penghapus dengan harga Rp. 2000/buah. Untuk
@@ -26,9 +37,6 @@ dengan langkah-langkah sebagai berikut:
    = Rp. 21.000
 
 Seperti contoh di atas, terdapat beberapa langkah untuk menghitung jumlah uang yang akan dibayarkan. 
-
-Contoh lain dari algoritma dalam kehidupan sehari-hari adalah memasak mie goreng,
-memesan ojek online melalui aplikasi Gojek.
 
 
 
