@@ -5,12 +5,12 @@ dengan menggunakan Diagram Alur (*Flowchart*) dan *Pseudocode*. Hal ini
 bertujuan untuk mempermudah pembaca untuk memahami bagaimana langkah-langkah
 sebuah algoritma berjalan.
 
-##### Diagram Alur (Flowchart)
+#### Diagram Alur (Flowchart)
 Diagram Alur (*Flowchart*) adalah gambar, bagan atau simbol yang memperlihatkan urutan dan hubungan antar proses beserta pernyataannya. Gambar pada Diagram Alur 
 berupa bangun datar yang masing-masing memiliki arti tersendiri.
-
+ 
 <img 
-  src="../assets/flowchart-element.png"
+  src="../assets/02/flowchart-element.png"
   alt="Flowchart Symbols' Meaning" 
   width="80%"
 />
@@ -18,7 +18,7 @@ berupa bangun datar yang masing-masing memiliki arti tersendiri.
 Contoh diagram alur untuk menghitung luas dari sebuah persegi panjang. 
 
 <img
-  src="../assets/flowchart-example.png"
+  src="../assets/02/flowchart-example.png"
   alt="Flowchart Example"
 />
 
@@ -37,7 +37,7 @@ eksekusi proses dari program.
 Simbol memulai dan mengakhiri suatu program adalah sama yaitu oval, dan simbol
 jajar genjang adalah simbol yang memiliki arti *input/output*.
 
-##### Pseudocode
+#### Pseudocode
 
 Pseudocode adalah suatu bentuk representasi algoritma atau alur dari suatu program,
 dengan menggunakan bahasa yang memiliki kemiripan dengan bahasa pemogramman secara

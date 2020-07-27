@@ -7,7 +7,7 @@
 2. Perhatikan flowchart berikut ini:
 
 <img 
-  src="../assets/q02-flowchart.png"
+  src="../assets/02/q-flowchart.png"
   alt="Flowchart for Algo Representation Question"
 />
 
