@@ -5,7 +5,10 @@ Repository of Code to teach Bunda Mulia University Computer Science Student how 
 Naming semantic:
 [Courses] Folder
   [assets] Folder
-    /assets-name.*
+    [01] Folder
+      /assets-name.*
+    [02] Folder
+      /assets-name.*
   [Chapter] Folder
     /theory_name_1.md
     /theory_name_2.md
@@ -18,7 +21,8 @@ Naming semantic:
 ```
 
 Description:
-- Assets Folder consists all assets that is used in the course.
+- Assets Folder consists all assets that is used in the course, seperated it into
+  folder based on the corresponding lesson.
 - Chapter Folder consists the lessons and theories of the course.
 - Question Folder consists of all of the questions that will be given to students.
 - Answer Folder is simply store .cpp/.c answer file of the given questions.
