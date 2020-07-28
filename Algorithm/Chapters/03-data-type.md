@@ -21,16 +21,11 @@ Berikut adalah beberapa tipe data yang secara umum terdapat dalam suatu bahasa p
    Karakter dalam komputasi memiliki pengertian yang sedikit berbeda dengan karakter dalam linguistik. Karakter dalam komputasi meliputi simbol dan alphabet yang diketahui dalam bahasa alami. 
    Contoh: alphabet (a, b, c), digit numerik(0 s/d 9), dan *punctuation* seperti titik(.), spasi( ), dan underscore(_).
 
-<div style="
-   display: flex; 
-   justify-content: center; 
-   align-items: center; 
-   flex-direction: column;
-">
+<div>
    <img 
       src="../assets/03/c-primitive-dt.png"
       alt="C primitive data type" 
-      width="80%"
+      width="50%"
    />
    <p>Primitive data type in C (Source: Google)</p>
 <div>
